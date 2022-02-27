@@ -1,5 +1,5 @@
 header {
-  width: 452px;
+  width: 500px;
 }
 #navbar {
   flex-direction: column;
@@ -8,13 +8,13 @@ header {
   height: 6.5rem;
 }
 #home {
-  width: 452px;
+  width: 500px;
 }
 #home img {
   margin: 0 auto;
 }
 #training {
-  width: 452px;
+  width: 500px;
 }
 #training .items {
   flex-direction: column;
