@@ -146,3 +146,6 @@ html {
   font-size: 3rem;
   list-style: none;
 }
+.social-media li a:hover {
+  opacity: 0.5;
+}
